@@ -1,0 +1,32 @@
+# Obsidian vault — notes only, not for GitHub
+obsidian-vault/
+
+# Program source docs (keep local)
+_program-docs/
+
+# Python / Colab artifacts
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files (models, datasets)
+*.bin
+*.gguf
+*.safetensors
+*.parquet
+*.csv
+data/raw/
+data/processed/
+
+# Secrets
+secrets/
+*.key
+*.pem
+credentials.json
