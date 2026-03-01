@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labs/ai-architecture/A1-glossary/README.md",
+                "file": "labs/ai-architecture/A2-use-cases/LAB_A2_STARTUP_PROMPT.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "LAB_A2_STARTUP_PROMPT"
             }
           }
         ]
@@ -194,9 +194,10 @@
   "active": "6bd0d253ef4f8d22",
   "lastOpenFiles": [
     "labs/ai-architecture/A2-use-cases/control-questions-answers.md",
+    "labs/ai-architecture/A2-use-cases/ответ-драфт_и_замечнаия_Джемени.md",
+    "labs/ai-architecture/A1-glossary/README.md",
     "labs/ai-architecture/A2-use-cases/tco-roi-projections.md",
     "labs/ai-architecture/A2-use-cases/ONDO-AI-Use-Case-Catalog-v1.md",
-    "labs/ai-architecture/A2-use-cases/ответ-драфт_и_замечнаия_Джемени.md",
     "labs/ai-architecture/A2-use-cases/ответ.md",
     "labs/ai-architecture/A2-use-cases/задание.md",
     "labs/ai-architecture/A2-use-cases/LAB_A2_STARTUP_PROMPT.md",
