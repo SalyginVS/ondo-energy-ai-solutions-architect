@@ -1,5 +1,6 @@
 # Obsidian vault — notes only, not for GitHub
 obsidian-vault/
+.obsidian/
 
 # Program source docs (keep local)
 _program-docs/
